@@ -1,6 +1,6 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3F6C,100:6C5CE7&height=200&section=header&text=Score%20Lookup%20XI&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cricket%20Team%20Scoring%20System%20in%20Excel&descAlignY=56&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF3F6C,100:6C5CE7&height=180&section=header&text=Score%20Lookup%20XI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Cricket%20Team%20Scoring%20System%20in%20Excel&descAlignY=68&descSize=18" alt="header"/>
 </p>
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
@@ -95,5 +95,5 @@ git clone https://github.com/muskansingal29/Score-Lookup-XI-.git
 </p>
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:FF3F6C&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6C5CE7,100:FF3F6C&height=120&section=footer" alt="footer"/>
 </p>
